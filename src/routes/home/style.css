@@ -1,0 +1,18 @@
+.home {
+	padding: 20px;
+	min-height: 100%;
+	width: 100%;
+}
+
+.centered {
+	text-align: center;
+}
+
+.fullWidth {
+	width: 100%
+}
+
+.noLink {
+	text-decoration: none;
+	color: black;
+}

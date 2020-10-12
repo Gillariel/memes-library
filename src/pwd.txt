@@ -1,0 +1,7 @@
+{
+  kosta: ^Wy929xm&vnWa7exVyiDuUQ$!YztCVPo,
+  isma: jfKJxr6!8Ku6^NNSeiBdhxd%2xEBn5Gd,
+  gus: dEkG$CHej2DAAVhaRbVs!TjdpKYe3oau,
+  mathilde: 8$&$fcq8in4vi$&Q#avA$rTPaXQchYn!,
+  nathan: J9Ab3QNc5NkUCPXy#tuTfUF7EW&nUKQW
+}
